@@ -6,7 +6,7 @@
 
 ## Demo
 
-- [Snake Game](https://edgardoplata.github.io/Design_Agency/)
+- [Snake Game](https://edgardoplata.github.io/Snake_game/)
 
 
 
